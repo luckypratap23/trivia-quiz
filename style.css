@@ -1,0 +1,12 @@
+#basicinfoabouttrivia{
+    font-weight: 400;
+}
+
+.carousel-inner{
+    height: 500px;
+    flex-wrap: wrap;
+}
+
+body{
+    background-color: #a3b18a;
+}
